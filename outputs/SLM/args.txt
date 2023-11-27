@@ -1,0 +1,2 @@
+
+C:\Users\Njfre\AppData\Roaming\Python\Python310\site-packages\ipykernel_launcher.py --f=c:\Users\Njfre\AppData\Roaming\jupyter\runtime\kernel-v2-30784E7kff2a3A20M.json
