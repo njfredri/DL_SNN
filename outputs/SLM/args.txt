@@ -1,2 +1,2 @@
 
-c:\Users\Nathan\.conda\envs\python_env1\lib\site-packages\ipykernel_launcher.py --f=c:\Users\Nathan\AppData\Roaming\jupyter\runtime\kernel-v2-12992tNM0qh7b6RhZ.json
+C:\Users\Njfre\AppData\Roaming\Python\Python310\site-packages\ipykernel_launcher.py --f=c:\Users\Njfre\AppData\Roaming\jupyter\runtime\kernel-v2-6920YznDkafMdPWa.json
